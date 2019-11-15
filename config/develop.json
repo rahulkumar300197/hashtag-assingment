@@ -1,0 +1,13 @@
+{
+    "PORT": 3000,
+    "databaseSettings": {
+        "mongodb": {
+            "MONGO_URI": "mongodb://127.0.0.1:27017/hashtag",
+            "DB_NAME": "hashtag"
+        }
+    },
+    "authSettings": {
+        "authKey": "poiuytrewq@0987654321",
+        "saltRounds": 10
+    }
+}
